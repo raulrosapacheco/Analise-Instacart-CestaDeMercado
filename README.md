@@ -19,4 +19,4 @@ Neste projeto foi realizado uma Análise Exploratória e foram respondidas as pe
     6 - Quais são os produtos que mais vendem?
     
     
-E por fim, foi realizado uma análise em relação a recompra de produtos(Taxa de Reorder) por departamento e por corredor do mercado.
+E por fim, foi realizado uma análise em relação a taxa de reorder(repetição de compra) por produto, departamento e por corredor do mercado.
